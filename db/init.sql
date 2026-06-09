@@ -8,6 +8,6 @@ CREATE TABLE students (
 INSERT INTO students (nim, nama)
 VALUES (
     'H1H024003',
-    'Peliharaan'
+    'Faizal'
 );
 ```
